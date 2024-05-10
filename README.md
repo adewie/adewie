@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 imma vmware engineer interested in ML
 
 <!--
 **adewie/adewie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
